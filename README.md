@@ -4,10 +4,11 @@
 <p align = "justify">FullStack Developer from Brazil. Already developed for companies in countries like Abu Dhabi and Russian.</p>
 <p align = "justify">Developed scalable Apps with more than +5.000.000 requests/month </p>
 
+<p align = "justify">Check my new App journey...</p>
+
 <h1 align = "justify"><img src="https://saas-email.vercel.app/_next/image?url=%2Fimg%2Ficon-purple.png&w=32&q=75" width="25px">
  <a href="https://saas-email.vercel.app/">Citizens App</a>
 </h1>
-<p align = "justify">Don't forget to check my new App journey.</p>
 
 
 [<img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:gabriel.alonso2589@gmail.com)
