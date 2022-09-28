@@ -7,6 +7,8 @@
 <h1 align = "justify"><img src="https://saas-email.vercel.app/_next/image?url=%2Fimg%2Ficon-purple.png&w=32&q=75" width="25px">
  <a href="https://saas-email.vercel.app/">Citizens App</a>
 </h1>
+<p align = "justify">Don't forget to check my new App journey.</p>
+
 
 [<img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:gabriel.alonso2589@gmail.com)
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/gabriel.alonso.js/)
