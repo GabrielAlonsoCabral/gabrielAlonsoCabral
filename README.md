@@ -42,6 +42,5 @@
 ## ⚡ GitHub Stats
  <div>
     <a href="https://github.com/gabrielAlonsocabral">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielAlonsoCabral&show_icons=true&count_private=true&show_icons=true&include_all_commits=true&theme=dracula"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielAlonsoCabral&hide=TeX&layout=compact&theme=dracula"/>
 </div>
