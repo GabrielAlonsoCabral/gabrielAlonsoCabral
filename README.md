@@ -1,7 +1,8 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=gabrielAlonsoCabral" alt="gabrielAlonsoCabral" /></p>
 
 <h1 align = "justify"> Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Gabriel Alonso.</h1>
-<p align = "justify">I've been working on some most used apps on Brazil, also you can check my new App Journey on the link below.</p>
+<p align = "justify">FullStack Developer from Brazil. Already developed for countries like Abu Dhabi and Russian.</p>
+<p align = "justify">Builded scalable Apps with more than +1.000.000 requests/month </p>
 
 <h1 align = "justify"><img src="https://saas-email.vercel.app/_next/image?url=%2Fimg%2Ficon-purple.png&w=32&q=75" width="25px">
  <a href="https://saas-email.vercel.app/">Citizens App</a>
