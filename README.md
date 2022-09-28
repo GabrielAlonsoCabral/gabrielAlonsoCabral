@@ -3,7 +3,7 @@
 <h1 align = "justify"> Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Gabriel Alonso.</h1>
 <p align = "justify">I've been working on some most used apps on Brazil, also you can check my new App Journey on the link below.</p>
 
-<img src="https://saas-email.vercel.app/_next/image?url=%2Fimg%2Ficon-purple.png&w=32&q=75" alt="Citizens" />
+<img src="https://saas-email.vercel.app/_next/image?url=%2Fimg%2Ficon-purple.png&w=32&q=75" alt="Citizens" /> Citizens App
 
 [<img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:gabriel.alonso2589@gmail.com)
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/gabriel.alonso.js/)
