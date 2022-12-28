@@ -1,12 +1,12 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=gabrielAlonsoCabral" alt="gabrielAlonsoCabral" /></p>
 
 <h1 align = "justify"> Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Gabriel Alonso.</h1>
-<p align = "justify">FullStack Developer from Brazil. Already developed for companies in Abu Dhabi and Russian.</p>
+<p align = "justify">Graduating on Computer engineering. </p>
 <p align = "justify">Developed scalable Apps with more than +5.000.000 requests/month. </p>
 
 ### Check my new App journey on the link below.
 <h1 align = "justify"><img src="https://saas-email.vercel.app/_next/image?url=%2Fimg%2Ficon-purple.png&w=32&q=75" width="25px">
- <a href="https://saas-email.vercel.app/">Citizens App</a>
+ <a href="https://citizens-builder.vercel.app/login">Citizens App</a>
 </h1>
 <br/>
 
